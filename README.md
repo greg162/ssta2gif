@@ -1,6 +1,8 @@
-#SSTA 2 gif
+SSTA 2 gif
+==========
 
-###Converts Sea Surface Temperature images from Nasa into Gifs
+Converts Sea Surface Temperature images from Nasa into Gifs
+-----------------------------------------------------------
 
 This script will download all images posted by NASA between 2 dates and will combine them into an animated GIF like the image below:
 ![An exmaple image.](https://github.com/greg162/ssta2gif/blob/master/ssta-animation.gif "Logo Title Text 1")
